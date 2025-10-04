@@ -1,4 +1,5 @@
 Java Annotations and Maven Assignment
+
 Java Annotations and Its Types:
 
 Annotations in Java provide metadata for code. They can influence compiler behavior or runtime processing. Built-in annotations include @Override, @Deprecated, and @SuppressWarnings. @Override ensures a method overrides a superclass method, while @Deprecated marks a method as obsolete. @SuppressWarnings ignores compiler warnings.
